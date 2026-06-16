@@ -21,5 +21,6 @@ La página incluye:
 
 ## Cómo visualizar el proyecto
 
-1. Descargar o clonar el repositorio.
-2. Abrir el archivo `index.html` en un navegador web.
+La página se encuentra publicada mediante GitHub Pages y puede visitarse desde el siguiente enlace:
+
+https://naylapereira.github.io/mi-pagina-semantica/
